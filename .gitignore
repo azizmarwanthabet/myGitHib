@@ -1,0 +1,4 @@
+*.log
+!vip.log
+access/
+text.text
